@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Rádio Itatiaia 610 AM (Belo Horizonte)
+http://8903.brasilstream.com.br:8903/stream
+#EXTINF:0 type="stream" channelId="-1", Radio Globo 98.1 FM (Rio De Janeiro)
+http://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio Hot 107 FM (Lencois Paulista / SP)
+https://shout35.crossradio.com.br:18116/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Difusora Pantanal 101.9 FM (Campo Grande / MS)
+http://stm.autodj.radio.br:7006/;
+#EXTINF:0 type="stream" channelId="-1", Rádio Antena 1 FM 94.7 (São Paulo / SP)
+https://antenaone.crossradio.com.br/stream/1;
+#EXTINF:0 type="stream" channelId="-1", Rádio Inconfidência  880 AM (Belo Horizonte / MG)
+http://srv39.brasilstream.com.br:8244/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Bandeirantes AM 840\\\\\\\\\\\\\\\\\\\\\\\\, FM 90.9 (São Paulo / SP)
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio Uirapuru Jaguaribana AM 1460 (Morada Nova / CE)
+http://servidor17.brlogic.com:7450/live
+#EXTINF:0 type="stream" channelId="-1", Nacional Amazônia Ondas Curtas 11.780 KHZ 6.180 KHZ (Manaus / AM))
+https://radionacionalamazonia-stream.ebc.com.br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio Nova Brasil FM 89.7 (São Paulo / SP)
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
+#EXTINF:0 type="stream" channelId="-1", Rádio 96 FM  (Bauru / SP)
+https://streaming.ei3.com.br/radio/8000/mp3
+#EXTINF:0 type="stream" channelId="-1", Rádio UNESP FM 105.7 (Bauru / SP)
+https://fm.unesp.br/unespfm.mp3
+#EXTINF:0 type="stream" channelId="-1", Rádio 94 FM (Bauru / SP)
+https://centova.svdns.com.br:20148/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Atlântida FM 94.3 (Porto Alegre / RS)
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rádio FM O Dia FM 100.5 (Rio De Janeiro / RJ)
+http://streaming.livecenterhost.com:8054/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio FM Premium (Porto Alegre / RS)
+http://cast4.audiostream.com.br:8663/mp3
+#EXTINF:0 type="stream" channelId="-1", Rádio Ambiente (Caxias Do Sul / RS)
+http://server02.ouvir.radio.br:8050/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Record (Porto Alegre / RS)
+http://euroticast5.euroti.com.br:8040/stream
+#EXTINF:0 type="stream" channelId="-1", Rádio Record AM1000 (São Paulo-SP)
+http://stm2.mestrestream.xyz:7098/stream
